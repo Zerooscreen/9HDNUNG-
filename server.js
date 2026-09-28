@@ -6,7 +6,7 @@ const { head, layout, posterCard, genreRow, trailerBlock, castGrid, similarGrid,
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const SITE_URL = process.env.SITE_URL || 'https://037thaihd.up.railway.app';
+const SITE_URL = process.env.SITE_URL || 'https://9hdnung.up.railway.app';
 
 app.use(express.static(path.join(__dirname, 'public')));
 
